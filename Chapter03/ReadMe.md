@@ -91,3 +91,12 @@ Create start, build scripts in package.json in script tag
   },
 
   -------------
+
+  Config driven UI
+  Json Viewer plugin for crome
+
+  Monolithic and microservice architecture - In Monolithic architecture we have all the mdules combined together like we have backend, UI code, DB code in same folder and and we used to build it for every small change. But in Microservice we have all modules saperated and can be build independently.
+
+  React Fibre - New Reconcilliation process upated in react 16 to efficiently manupulate dom Object using diffing algorithm.
+
+  Virtual Dom is nothing but Javascript object to efficienly update dom.
